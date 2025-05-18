@@ -3,7 +3,8 @@
 <H3>EX. NO.7</H3>
 <H3>DATE:18/05/25</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
-<H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
+<H3>Aim:
+To perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
